@@ -23,7 +23,11 @@ Labor can reply on this ai system instead of interface terrible leaders and redu
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Labors can be the user.
+Leaders instruction will be filter by ai system ,if it's ilegal then it won't ask labor to do but system will educate leader.
+Labor has freedom to transfer to another job position without leader agree or reject.
+AI can check the labor working result without emotional leader change task all the time. 
+AI can be reporting line for labor instead of report to emotional leader directly.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
