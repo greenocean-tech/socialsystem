@@ -1,4 +1,4 @@
-# career system
+# ai career system
 ai career system
 
 <!-- This is the markdown template for the new social system of the AI, 
@@ -11,14 +11,17 @@ New career system instead of emotional human leaders.
 
 ## Summary
 
-Many leaders focus on promote friends become leaders but without solving issues or getting support.
+Many leaders promote friends become leaders but without solving issues capability or getting support.
 Labor can reply on this ai system instead of interface terrible leaders and reduce office bully situation.
 
 
 ## Background
 
-* Manager rejected labor choose another job in the company.
-* Manager has no assign any task for labors and damaged labor career.
+* Manager rejected labor internal transfer job opportunity in the company.
+* Manager has no assign any task for labors then rate bad performance for labor that damaged labor career and bonus.
+* Manager can not state clear task to labor but push all the responsibility to labors then asked labor resign.
+* Manager yelling labor at the office but without helping solve the issue.
+* Manager asked labor privacy questions without respectful.
 
 
 ## How is it used?
