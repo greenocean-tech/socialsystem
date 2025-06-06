@@ -1,5 +1,5 @@
 # socialsystem
-ai social system
+ai career system
 
 <!-- This is the markdown template for the new social system of the AI, 
 created by Lo and University of Helsinki. 
@@ -7,20 +7,18 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Project Title
 
-New social system for the AI
+New career system instead of emotional human leaders.
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Many leaders focus on promote friends become leaders but without solving issues or getting support.
+Labor can reply on this ai system instead of interface terrible leaders and reduce office bully situation.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
 * Manager rejected labor choose another job in the company.
-* Manager damaged labor career.
+* Manager has no assign any task for labors and damaged labor career.
 
 
 ## How is it used?
