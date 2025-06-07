@@ -68,6 +68,14 @@ Managers and HR will initial a group to against this system.
 
 Implement this system inside company and allow labor to choose, I will need protection to against all of Managers and HR.
 
+Possible Tech Stack:
+
+Frontend: React.js or Angular (for manager/labor dashboards)
+Backend: Node.js, Python (Flask/FastAPI), or similar
+Database: PostgreSQL/MySQL (task, user, performance data)
+AI/ML: Python (scikit-learn, PyTorch, or TensorFlow for performance rating and assignment)
+Optional: NLP tools to filter/standardize manager messages (spaCy, NLTK, OpenAI API)
+
 ## 1. System Architecture Overview
 
 ```
