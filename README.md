@@ -11,7 +11,7 @@ New career system instead of emotional human leaders.
 
 ## Summary
 
-Many leaders promote friends become leaders but without solving issues capability or getting support.
+Many leaders promote friends become leaders but without solving issues capability.
 Labor can reply on this ai system instead of interface terrible leaders and reduce office bully situation.
 
 
