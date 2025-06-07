@@ -278,7 +278,7 @@ class Report(BaseModel):
 
 ## 5. Customization for Your Industry
 
-- Templates for reports, task types, and legal policies can be adjusted for equipment suppliers.
+- Templates for reports, task types, and legal policies can be adjusted.
 - Integrate with document signing APIs for customer signatures.
 
 ## Acknowledgments
